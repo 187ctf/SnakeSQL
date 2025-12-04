@@ -1,4 +1,4 @@
-# StealthSQL - Python Edition
+# SnakeSQL - Python Edition
 
 ![Version](https://img.shields.io/badge/version-2.0.1-blue)
 ![Python](https://img.shields.io/badge/python-3.6+-green)
